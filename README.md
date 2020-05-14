@@ -1,4 +1,12 @@
-# This repository was a presentation done in May / 2020 - University of Modena and Reggio Emilia - Italy
+## Python Seminar May / 2020.
+## University of Modena and Reggio Emilia - Italy
+# Content
+- Python Basics
+- Webscraping with BeautifulSoup
+- Pandas read excel
+- Output excel using openpyxl
+- Assignment Model in Linear Programming using PuLP
+- Simple data analyses using series of pandas
 
 # Files
 - PythonSeminar.ipynb
@@ -9,7 +17,5 @@
 
 ## Storytelling
 
-```math
-a^2+b^2=c^2
-x_{de} = Z
-```
+
+# Assignment Model
